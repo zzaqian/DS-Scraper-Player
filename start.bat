@@ -32,6 +32,9 @@ if defined _OLD_CODEPAGE (
     set _OLD_CODEPAGE=
 )
 
+rem Change the current directory to Programs
+cd Programs
+
 title Execute Python [DovaSyndrome]
 :main
 echo.
