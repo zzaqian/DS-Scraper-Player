@@ -1,0 +1,99 @@
+﻿tagId¶name¶English¶Chinese
+m01¶明るい¶bright¶明亮
+m02¶楽しい¶fun¶有趣
+m03¶温かい¶warm¶温暖
+m04¶穏やか¶calm¶平静
+m05¶優しい¶kind¶温柔
+m30¶爽やか¶refreshing¶清爽
+m31¶お洒落¶stylish¶俏皮
+m32¶力強い¶powerful¶有力
+m33¶弱々しい¶weak¶微弱
+m06¶懐かしい¶nostalgic¶令人怀念
+m07¶不思議¶wonder¶不可思议
+m08¶騒々しい¶noisy¶吵闹
+m09¶可愛い¶cute¶可爱
+m10¶渋い¶bitter¶苦涩
+m28¶ｼﾘｱｽ¶serious¶严肃
+m34¶緊張感¶nervousness¶紧张感
+m12¶慎ましい¶humble¶谦逊
+m13¶寂しい¶lonely¶孤独
+m14¶切ない¶painful¶苦闷
+m15¶冷たい¶cold¶冰冷
+m16¶暗い¶dark¶黑暗
+m17¶悲しい¶sad¶悲伤
+m18¶怒り¶anger¶愤怒
+m19¶恐ろしい¶dreadful¶可怕
+m20¶激しい¶violent¶激烈
+m21¶ｻｲﾊﾞｰ¶cyber¶网络
+m22¶ﾌｧﾝﾀｼﾞｰ¶fantasy¶幻想
+m23¶ｺﾒﾃﾞｨｰ¶comedy¶喜剧
+m24¶悪意¶malice¶恶意
+m25¶怪しい¶suspicious¶可疑
+m35¶日常¶everyday life¶日常
+m36¶情熱¶passion¶热情
+m37¶冷静¶composure¶冷静
+m38¶淡白¶bland¶平淡
+m27¶希望¶hope¶希望
+m26¶絶望¶despair¶绝望
+m29¶虚無¶nothingness¶虚无
+r01¶ﾌﾘｰ¶free¶自由节拍
+r02¶三拍子¶triple time¶三拍子
+r03¶四拍子¶quadruple time¶四拍子
+r04¶変拍子¶odd time signature¶变拍子
+r05¶三連符¶triplets¶三连音
+r06¶早い¶quick¶快速
+r07¶遅い¶slow¶缓慢
+r08¶一部早い¶quicker¶稍快
+r09¶一部遅い¶slower¶稍慢
+r26¶普通の速さ¶normal speed¶正常速度
+r10¶軽快¶light¶轻快
+r11¶鈍重¶dull¶沉闷
+r29¶壮大¶magnificent¶雄壮
+r12¶ﾎﾟｯﾌﾟ¶pop¶流行
+r13¶ﾛｯｸ¶rock¶摇滚
+r33¶ﾒﾀﾙ¶metal¶金属
+r28¶ﾌﾞﾙｰｽ¶blues¶布鲁斯
+r14¶ｽｲﾝｸﾞ¶swing¶摇摆乐
+r15¶ﾌｧﾝｸ¶funk¶放克
+r32¶ﾎﾞｻﾉﾊﾞ¶bossa nova¶波萨诺瓦
+r35¶ｼﾞｬｽﾞ¶jazz¶爵士
+r16¶ｸﾗｼｯｸ¶classic¶古典
+r17¶ﾃﾞｼﾞﾀﾙ¶digital¶电子乐
+r34¶EDM¶EDM¶电子舞曲
+r27¶ｱﾝﾋﾞｴﾝﾄ¶ambient¶氛围音乐
+r18¶民族系¶ethnic¶民族乐
+r19¶ｶﾝﾄﾘｰ¶country¶乡村
+r20¶ｱｺｰｽﾃｨｯｸ¶acoustic¶非电子乐
+r23¶和風¶Japanese style¶和风
+r24¶ﾉｲｽﾞ¶noise¶噪音
+r25¶童謡¶nursery rhyme¶童谣
+r30¶ｼﾈﾏ¶cinema¶电影
+r31¶ﾄﾞﾗﾏ¶drama¶戏剧
+r21¶ｹﾞｰﾑ¶game¶游戏
+r22¶ﾋｰﾘﾝｸﾞ¶healing¶治愈
+i01¶ﾎﾞｰｶﾙ¶vocal¶声乐
+i02¶ｺｰﾗｽ¶chorus¶合唱
+i03¶ﾋﾟｱﾉ¶piano¶钢琴
+i04¶ｵﾙｶﾞﾝ¶organ¶风琴
+i05¶その他鍵盤¶other keyboards¶其他键盘类
+i06¶E.ｷﾞﾀｰ¶E. guitar¶电子吉他
+i07¶E.ﾍﾞｰｽ¶E. bass¶电子贝斯
+i08¶A.ｷﾞﾀｰ¶A. guitar¶声乐吉他
+i09¶A.ﾍﾞｰｽ¶A. bass¶声乐贝斯
+i10¶その他弦-高¶other strings - high¶其他弦类-高
+i11¶その他弦-低¶other strings - low¶其他弦类-低
+i12¶金管楽器-高¶brass instruments - high¶其他铜管乐器-高
+i13¶金管楽器-低¶brass instruments - low¶其他铜管乐器-低
+i14¶木管楽器-高¶woodwinds instruments - high¶其他木管乐器-高
+i15¶木管楽器-低¶woodwinds instruments - low¶其他木管乐器-低
+i16¶旋律打楽器¶melodic percussion instruments¶旋律打击乐器
+i17¶ﾄﾞﾗﾑ¶drum¶鼓
+i18¶ﾊﾟｰｶｯｼｮﾝ¶percussion¶打击乐
+i19¶その他打楽器¶other percussion instruments¶其他打击乐器
+i20¶ｼﾝｾﾄﾞﾗﾑ¶synth drum¶合成器鼓
+i21¶ｼﾝｾﾘｰﾄﾞ¶synth lead¶合成器铅
+i22¶ｼﾝｾﾊﾟｯﾄﾞ¶synth pad¶合成器
+i23¶ｼﾝｾｽﾄﾘﾝｸﾞｽ¶synth strings¶合成器弦乐
+i24¶ｼﾝｾその他¶synth and others¶合成器及其他
+i25¶民族楽器¶folk instruments¶民族乐器
+i26¶その他楽器¶other musical instruments¶其他乐器
