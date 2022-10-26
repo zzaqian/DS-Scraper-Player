@@ -13,7 +13,7 @@ This repository is a virtual enviroment. Dependency modules should be installed 
 ### start.bat
 - Run `start.bat` to activate the virtual environment and call `Programs/DovaSyndrome.py`, which is the main program.
 - If no errors occur, the command prompt will ask you to input an operation. Enter `guide` to view the list of possible operations.
-- Here is the same list of possible operations, which are all function prototypes:
+- Here is the current list of possible operations, which are all function prototypes:
   - `downloadMostDownloads(startPage=1, endPage=1)`
   - `downloadLatest(startPage=1, endPage=1)`
   - `downloadbyTag(tag, sort="time", startPage=1, endPage=1)`
