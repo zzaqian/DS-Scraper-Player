@@ -4,9 +4,15 @@ It also includes a mini player that plays donwloaded BGMs.
 
 ## Dependencies: 
 This repository is a virtual enviroment. Dependency modules should be installed when the virtual environment is activated (through Scripts/activate.bat). 
-- Requests
+- requests
 - Beautiful Soup
-- Inputimeout
+- urllib
+- csv
+- re
+- time
+- random
+- sys
+- inputimeout
 - VLC: In order to use the VLC module in Python, the user must also install the VLC Player in computer.
 
 ## How to Use:
