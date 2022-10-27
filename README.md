@@ -1,4 +1,6 @@
 # DS-Scraper-Player
+[My blog](https://zzaqian.github.io/personal-website/ds-scraper-player.html)
+
 Scrapes the free BGM website [Dova-Syndrome](dova-s.jp) and automates the BGM downloading process. 
 It also includes a mini player that plays donwloaded BGMs. 
 
