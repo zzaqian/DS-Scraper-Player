@@ -40,21 +40,34 @@ This repository is a virtual enviroment. Dependency modules should be installed 
 - Enter any of these function calls into the command prompt to execute. For example, if I type in `downloadLatest(1, 2)`, the program will go to [the home page](https://dova-s.jp/bgm/) and start downloading from the latest published BGM (first one on page 1) and stop after downloading all the BGMs on page 2. 
 - To exit the program, simply close the command prompt window.
 
-### Downloaded BGMs
+### Screenshots of Program
+- `downloadLatest()` (downloads all the newly published BGMs on Page 1 of index pages)
+![downloadLatest](img/ds-2.png)
+- `downloadbyTag("苦涩", "time", 1, 5)` (downloads all the BGMs with the tag "bitter" on Page 1 to 5 arranged by time, or from newst to oldest)
+- p.s. BGMs already downloaded are skipped.
+![downloadbyTag](img/ds-3.png)
+- `playFavorites()` (plays downloaded BGMs stored in `favorites.csv`)
+![playFavorites()](img/ds-6.png)
+
+### Passing Tags into Functions
+- The tag/tags arguments passed into the functions can be either a string of tag ID or its Chinese translation. Searching by Japanese or English is not currently supported because the author only needs to care about himself.
+
+## Downloaded BGMs
 - All BGMs donwloaded are stored in the `DSdownloads/` folder in .mp3 format.
 
-### BGM Data and Tags
+## BGM Data and Tags
 - In the `bgmData/`folder, there are 4 .csv files:
   - `mainData.csv`: Stores relevant data of every downloaded BGM.
   - `tags.csv`: Includes the look-up table of Dova-Syndrome's tags for BGMs. It not only contains every tag's ID and its original Japanese name but also contains its translation in English and Chinese. 
-  - `mostDownloads.csv`: This file will be written every time `getMostDownloadsandPlay` is called. It stores the list of downloaded BGMs with top download numbers.
+  - `mostDownloads.csv`: This file will be overwritten every time `getMostDownloadsandPlay` is called. It stores the list of downloaded BGMs with top download numbers.
   - `favorites.csv`: This file will be appended every time `addtoFavorites` is called. It stores the user's favorites downloaded BGMs.
   
-### Passing Tags into Functions
-- The tag/tags arguments passed into the functions can be either a string of tag ID or its Chinese translation. Searching by Japanese or English is not supported because the author only needs to care about himself.
+### Screenshots of Files
+- `mainData.csv`
+![mainData.csv](img/mainData.png)
 
-### VLC Player
-- Every function with "play" in its name will play all specified downloaded BGM(s). It accesses the VLC Player installed in the computer with the VLC module. 
+## VLC Player
+- Every function with "play" in its name will play all specified downloaded BGM(s). It accesses the VLC Player installed in the computer through the VLC module. 
 - There is a simple textual progress bar for the BGM playing, updating approximately every 5 seconds in the command prompt. While a BGM is playing, you can enter the following operations:
   - `pause`: Pauses the player.
   - `resume`: Resumes the player.
@@ -64,4 +77,7 @@ This repository is a virtual enviroment. Dependency modules should be installed 
   - `goto [index]`: Go to the [index] BGM on list.
   - `time`: Toggle the progress bar display.
 
+### Screenshots of Program
+- Some basic functions of the player:
+![player](img/ds-4.png)
 
