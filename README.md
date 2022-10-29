@@ -65,6 +65,8 @@ This repository is a virtual enviroment. Dependency modules should be installed 
 ### Screenshots of Files
 - `mainData.csv`
 ![mainData.csv](img/mainData.png)
+- `tags.csv`
+![tags.csv](img/tags.png)
 
 ## VLC Player
 - Every function with "play" in its name will play all specified downloaded BGM(s). It accesses the VLC Player installed in the computer through the VLC module. 
